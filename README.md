@@ -1,3 +1,3 @@
 # Prolog
 Notebook about the basics of Prolog.
-MODIFIED, to be fetched!
+NEW MODIFIED, to be fetched!
